@@ -20,4 +20,5 @@ function divideTwo(number1, number2){
 	return number1 / number2;
 }
 function remainder(number1, number2){
-	re
+	return number1 % number2;
+}
